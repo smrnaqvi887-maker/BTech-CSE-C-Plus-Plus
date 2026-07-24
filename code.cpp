@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int n = 60;
+    int n = 55;
 if (n>=0) {
     cout<<"n is positive";
 } else{
