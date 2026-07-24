@@ -8,4 +8,3 @@ if (n>=0) {
     cout<<"n is negative";
 } return 0;
 }
-
