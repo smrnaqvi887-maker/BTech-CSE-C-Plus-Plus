@@ -1,10 +1,17 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-int main(){
-    int n = 55;
-if (n>=0) {
-    cout<<"n is positive";
-} else{
-    cout<<"n is negative";
-} return 0;
+int main() {
+    int marks;
+    cout<<"Enter your marks : ";
+    cin>>marks;
+if (marks>=90){
+    cout<<"A";
+} else if (marks>=80 && marks<90){
+    cout<<"B";
+} else if (marks>=60){
+    cout<<"C";
+} else if (marks<60){
+    cout<<"E";
+}   
+return 0;
 }
