@@ -1,7 +1,23 @@
+// ---1. AGE vs VOTE---
 /* #include<iostream>
 using namespace std;
+int main() {
+    int age;
+    cout<<"Enter your age: ";
+    cin>> age;
+    if(age>=18){
+        cout<<"Eligible to vote";
+    } else {
+        cout<<"Not eligible to vote";
+    }
+    return 0;
+}
+// ---2.uppercase and lowercase---
+#include<iostream>
+using namespace std;
 int main() { 
-    // ---1.uppercase and lowercase---
+
+    
     
     char ch;
     cout<<"enter any alphabet : ";
@@ -15,7 +31,7 @@ if ('a'<=ch && 'z'>=ch){
 } return 0;
 }
 
-// ---2.marks vs grading---
+// ---3.marks vs grading---
 
  #include <iostream>
  using namespace std;
