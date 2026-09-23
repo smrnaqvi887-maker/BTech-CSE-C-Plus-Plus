@@ -1,3 +1,4 @@
+//-----Problem-1-----
 /*#include<iostream>
 using namespace std;
 int main() {
@@ -10,6 +11,8 @@ int main() {
     }
     return 0;
 } 
+
+//-----Problem-2-----
  #include<iostream>
  using namespace std;
  int main() {
@@ -24,6 +27,8 @@ int main() {
     }
     return 0;
  }
+
+//-----Problem-3-----
 #include<iostream>
 using namespace std;
 int main() {
