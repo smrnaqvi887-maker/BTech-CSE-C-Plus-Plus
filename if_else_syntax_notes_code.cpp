@@ -29,7 +29,7 @@ if ('a'<=ch && 'z'>=ch){
 } else{
     cout<<"not alphabet";
 } return 0;
-}
+} */
 
 // ---3.marks vs grading---
 
@@ -49,4 +49,4 @@ if(marks>=90) {
     cout<<"D";
 }
  return 0;
-} */
+} 
